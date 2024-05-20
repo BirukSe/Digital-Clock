@@ -1,0 +1,24 @@
+body{
+    background-image: url(pic.avif);
+    background-size: cover;
+}
+#clock{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+}
+#cc{
+    font-family: monospace;
+    font-size: 6.5rem;
+    font-weight: bold;
+    text-align: center;
+    color: yellow;
+    backdrop-filter: blur(8px);
+
+}
+#bura{
+    font-size: 7em;
+    text-align: center;
+}
